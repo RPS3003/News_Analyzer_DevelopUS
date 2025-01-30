@@ -1,0 +1,6 @@
+groq
+serpapi
+pytrends
+python-dotenv
+requests
+pandas
