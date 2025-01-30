@@ -1,4 +1,5 @@
-groq
+streamlit
+groq==0.4.0  # Adjust based on the latest version
 serpapi
 pytrends
 python-dotenv
