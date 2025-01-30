@@ -1,7 +1,7 @@
-streamlit
-groq==0.4.0  # Adjust based on the latest version
-serpapi
-pytrends
-python-dotenv
-requests
-pandas
+streamlit==1.30.0
+groq==0.4.0
+serpapi==0.1.5
+pytrends==4.9.2
+python-dotenv==1.0.0
+requests==2.31.0
+pandas==2.2.0
